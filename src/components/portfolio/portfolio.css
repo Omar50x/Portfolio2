@@ -18,8 +18,15 @@
     border-radius: 1.5rem;
     overflow: hidden;
 }
+.portfolio__item-image img{
+    height: 300px;
+}
 .portfolio__item h3{
     margin: 1.2rem 0 2rem;
+}
+.MyRecentWork{
+    margin-top: 70px;
+    margin-bottom: 60px;
 }
 .portfolio__item-cta{
     display: flex;

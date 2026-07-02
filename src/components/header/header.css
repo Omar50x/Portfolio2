@@ -49,7 +49,7 @@ header {
     margin-top: 4rem;
     border-radius: 12rem 12rem 0 0;
     overflow: hidden;
-    padding: 5rem 1.5rem 1.5rem 1.5rem;
+    padding: 5rem 0rem 1.5rem 0rem;
 }
 
 /* Scroll Down */
@@ -65,11 +65,11 @@ header {
 
 /* Media Queries (Medium Devices) */
 
-@media screen and (max-width: 1024px) {
+/* @media screen and (max-width: 1024px) {
     header {
         height: 68vh;
     }
-}
+} */
 
 /* Media Queries (Small Devices) */
 @media screen and (max-width: 600px) {
@@ -78,5 +78,16 @@ header {
     }
     .header__socials, .scroll__down {
         display: none;
+    }
+}
+
+@media screen and (max-height: 799px) {
+    .img-div img {
+        width: 8rem;
+    }
+    .me {
+        width: 8rem;
+        margin-left: 110px;
+        height: 17rem;
     }
 }

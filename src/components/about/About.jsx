@@ -1,6 +1,6 @@
 import React from 'react'
 import './about.css'
-import ME from '../../assets/me-about.jpg'
+import ME from '../../assets/me-about.png'
 import {FaAward} from 'react-icons/fa'
 import {FiUsers} from 'react-icons/fi'
 import {VscFolderLibrary} from 'react-icons/vsc'
@@ -28,16 +28,16 @@ const About = () => {
             <article className='about__card'>
               <FiUsers className='about__icon'/>
               <h5>Clients</h5>
-              <small>200+ Worldwide</small>
+              <small>15+ Worldwide</small>
             </article>
             <article className='about__card'>
               <VscFolderLibrary className='about__icon'/>
               <h5>Projects</h5>
-              <small>80+ Completed</small>
+              <small>14+ Completed</small>
             </article>
           </div>
 
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora quae excepturi, animi distinctio, iste accusamus dicta est eveniet iure laboriosam explicabo exercitationem adipisci assumenda officia, hic dolorem consectetur? Facilis, blanditiis?</p>
+          <p>I’m interested in everything new and amazing in web development, and always excited to get creative with advanced technologies. I’m looking to collaborate on making the web a more real world than the real world.</p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>
