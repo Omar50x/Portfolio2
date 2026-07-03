@@ -17,6 +17,12 @@
     border-radius: 2rem;
     user-select: none;
 }
+.client__role{
+    color: var(--color-primary);
+    font-weight: 400;
+    display: block;
+    margin-top: 0.3rem;
+}
 .client__review{
     color: var(--color-light);
     font-weight: 300;
