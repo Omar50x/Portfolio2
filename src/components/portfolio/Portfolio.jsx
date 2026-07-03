@@ -59,7 +59,7 @@ import azexpressIMG from '../../assets/azexpress.png'
   {
     id: 1,
     image: burhankIMG,
-    title: 'Full-stack Laravel and Next.js platform, e-commerce order analysis, fraud detection, Google Sheets integration.',
+    title: 'Professional WordPress website for a Saudi feasibility study consultancy, emphasizing performance, SEO, and user experience.',
     video: '',
     demo: 'https://burhank.com/'
   },
@@ -73,7 +73,7 @@ import azexpressIMG from '../../assets/azexpress.png'
   {
     id: 3,
     image: alexIMG,
-    title: 'Full-stack Laravel and Next.js platform, e-commerce order analysis, fraud detection, Google Sheets integration.',
+    title: 'Modern WordPress website for a digital solutions company, focusing on performance, responsive design, and user experience.',
     video: '',
     demo: 'https://alex-sa.com/'
   },
@@ -87,14 +87,14 @@ import azexpressIMG from '../../assets/azexpress.png'
   {
     id: 5,
     image: havanatextileIMG,
-    title: 'Full-stack Laravel and Next.js platform, e-commerce order analysis, fraud detection, Google Sheets integration.',
+    title: 'WordPress e-commerce website for a textile brand, optimizing product presentation, performance, and user experience.',
     video: '',
     demo: 'https://havanatextile.com/'
   },
   {
     id: 6,
     image: britchamIMG,
-    title: 'Full-stack Laravel and Next.js platform, e-commerce order analysis, fraud detection, Google Sheets integration.',
+    title: 'Professional WordPress website for a business chamber, focusing on usability, performance, and member engagement.',
     video: '',
     demo: 'https://britcham.ma/'
   },
